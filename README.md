@@ -10,5 +10,5 @@ Examples for when you need a large clipboard: filling out applications for summe
 - CSS
 - JavaScript
 
-Screenshots:
+## Screenshots:
 ![Image1](https://user-images.githubusercontent.com/74934154/151683752-81f1edf2-d08c-4361-ae1c-3c06ae45a414.png)
